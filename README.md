@@ -5,11 +5,11 @@
 
 ## 🚀 Sobre Mim
 
-Tenho 30 anos e sou do Rio de Janeiro.
+Flutter Developer | Assistente de TI | Infraestrutura, Segurança da Informação & Desenvolvimento de Projetos | 
 
-Sou um entusiasta de tecnologia e estudante de Análise e Desenvolvimento de Sistemas.
+Profissional de tecnologia com experiência em infraestrutura de TI, segurança da informação e desenvolvimento de projetos. Atuo com suporte técnico, redes e segurança, e possuo conhecimento em desenvolvimento mobile com Flutter, além de desenvolvimento web, automação de processos e gestão de pessoas.
 
-Atualmente, estou aprofundando meus conhecimentos em Dart, flutter, HTML, CSS e JavaScript.
+Sou apaixonado por Esports e faço parte do cenário há 7 anos. Além da minha atuação em TI, sou fundador e líder de uma torcida de Esports voltada para a comunidade, tendo organizado viagens para quatro países para apoiar times do cenário competitivo. Esse projeto reforça minha experiência em gestão de comunidades, organização de eventos e liderança de equipes.
 
 ### 🤖 Linguagens e Tecnologias
 
