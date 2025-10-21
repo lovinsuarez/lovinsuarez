@@ -11,44 +11,6 @@ Sou um entusiasta de tecnologia e estudante de Análise e Desenvolvimento de Sis
 
 Atualmente, estou aprofundando meus conhecimentos em Dart, flutter, HTML, CSS e JavaScript.
 
-## 🎓 Formação
-
-* **Técnico em Análise e desenvolvimento de sistemas**
-    * Unifatecie | (Cursando)
-
-## 💻 Meu Foco Atual
-
-Estou me especializando em desenvolvimento [Web/Mobile/Front-End] e explorando tecnologias como:
-
-* [Dart]
-* [Flutter]
-* [HTML, CSS]
-* [JavaScript]
-
-## 📫 Como me encontrar
-
-* **Email:** [jean.l.ff@gmail.com]
-* **LinkedIn:** [https://www.linkedin.com/in/jean-felizardo/]
-
-<p align="left">
-    <a href="https://github.com/lovinsuarez?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/lovinsuarez?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/lovinsuarez?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/lovinsuarez?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -105,6 +67,46 @@ Estou me especializando em desenvolvimento [Web/Mobile/Front-End] e explorando t
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=lovinsuarez&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+
+
+## 🎓 Formação
+
+* **Técnico em Análise e desenvolvimento de sistemas**
+    * Unifatecie | (Cursando)
+
+## 💻 Meu Foco Atual
+
+Estou me especializando em desenvolvimento [Web/Mobile/Front-End] e explorando tecnologias como:
+
+* [Dart]
+* [Flutter]
+* [HTML, CSS]
+* [JavaScript]
+
+## 📫 Como me encontrar
+
+* **Email:** [jean.l.ff@gmail.com]
+* **LinkedIn:** [https://www.linkedin.com/in/jean-felizardo/]
+
+<p align="left">
+    <a href="https://github.com/lovinsuarez?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/lovinsuarez?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/lovinsuarez?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/lovinsuarez?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
 
 <img 
       align="left" 
